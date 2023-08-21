@@ -7,9 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/sauravk80419881" target="blank"><img src="https://img.shields.io/twitter/follow/sauravk80419881?logo=twitter&style=for-the-badge" alt="sauravk80419881" /></a> </p>
 
-- 🔭 I worked on [Jobineducation.net](https://www.jobsineducation.net/)
 
 - 🌱 I’m currently Studying **M.Tech (CSE in AI & DS) From IIIT BHAGALPUR**
+  
+- 🔭 I worked on [Jobineducation.net](https://www.jobsineducation.net/)
 
 - 🔭 I worked on [agorae.live](https://www.agorae.live/)
 
