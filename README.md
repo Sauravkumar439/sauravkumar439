@@ -1,3 +1,4 @@
+![logo](https://github.com/Sauravkumar439/sauravkumar439/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Saurav Kumar</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/Sauravkumar439/sauravkumar439/blob/main/aminated.gif?raw=true">
