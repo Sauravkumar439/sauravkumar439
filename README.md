@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saurav Kumar</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://github.com/Sauravkumar439/sauravkumar439/blob/main/aminated.gif?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravkumar439&label=Profile%20views&color=0e75b6&style=flat" alt="sauravkumar439" /> </p>
 
