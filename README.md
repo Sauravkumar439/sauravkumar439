@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saurav Kumar</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/Sauravkumar439/sauravkumar439/assets/26524353/3b0d4ddc-bacb-4733-a8e4-c81d63844258)
-">
+<img align="right" alt="coding" width="400" src="https://github.com/Sauravkumar439/sauravkumar439/blob/main/aminated.gif?raw=true">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravkumar439&label=Profile%20views&color=0e75b6&style=flat" alt="sauravkumar439" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sauravkumar439" alt="sauravkumar439" /></a> </p>
