@@ -14,7 +14,7 @@
 
 - 🔭 I worked on [agorae.live](https://www.agorae.live/)
 
-- 👨‍💻 All of my projects are available at [https://sauravkumarprotfolioo.netlify.app/](https://sauravportfolio.com/)
+- 👨‍💻 All of my projects are available at [https://sauravportfolio.com/](https://sauravportfolio.com/)
 
 - 💬 Ask me about **MERN STACK, PHP, ANDROID**
 
