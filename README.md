@@ -50,9 +50,6 @@
   <img alt="Saurav's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sauravkumar439&theme=react-dark" />
 </a>
 
-### 📊 GitHub Metrics
-
-<img src="https://github.com/sauravkumar439/sauravkumar439/blob/main/github-metrics.svg" alt="GitHub Metrics" />
 
 ### 🏅 GitHub Trophies
 
