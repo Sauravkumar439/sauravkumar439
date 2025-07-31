@@ -53,16 +53,6 @@
 ### 📊 GitHub Metrics
 
 <img src="https://github.com/sauravkumar439/sauravkumar439/blob/main/github-metrics.svg" alt="GitHub Metrics" />
-### ⌚ Wakatime Stats
-
-<!-- Replace `your_username` with your actual Wakatime username -->
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=sauravkumar439)
-
-
-### 🐍 GitHub Contribution Snake
-
-![Snake animation](https://github.com/sauravkumar439/sauravkumar439/blob/output/github-contribution-grid-snake.svg)
-
 
 ### 🏅 GitHub Trophies
 
