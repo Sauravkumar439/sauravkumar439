@@ -42,3 +42,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sauravkumar439&show_icons=true&locale=en" alt="sauravkumar439" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sauravkumar439&" alt="sauravkumar439" /></p>
+
+
+### 📅 GitHub Contribution Graph
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="Saurav's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sauravkumar439&theme=react-dark" />
+</a>
